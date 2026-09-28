@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch
+transformers>=4.36,<4.46
+accelerate
